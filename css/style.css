@@ -1,0 +1,18 @@
+.button {
+	text-decoration: none;
+	font-size: 28px;
+	font-weight: bolder;
+}
+
+#wrapper img {
+	position: absolute;
+	top: 25%;
+	left: 35%;
+	width: 25%;
+	height: 50%;
+}
+
+#slider {
+	overflow: hidden;
+	display: none;
+}
